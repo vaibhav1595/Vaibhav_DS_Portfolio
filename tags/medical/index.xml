@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical on Vaibhav Panchal</title>
+    <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/medical/</link>
+    <description>Recent content in medical on Vaibhav Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/medical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4: Forecast Medical Insurance Cost</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-4-forecast-medical-insurance-cost/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-4-forecast-medical-insurance-cost/</guid>
+      <description>Cleaned the data and conducted Exploratory Data Analysis Transformed hashable and comparable non-numerical labels to numerical labels using LabelEncoder Applied Polynomial and Linear Regression Machine Learning Models to predict the target variable ‘Insurance Cost’ accurately  Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

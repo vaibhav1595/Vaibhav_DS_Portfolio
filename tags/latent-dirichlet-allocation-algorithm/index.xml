@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Dirichlet allocation Algorithm on Vaibhav Panchal</title>
+    <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/latent-dirichlet-allocation-algorithm/</link>
+    <description>Recent content in Latent Dirichlet allocation Algorithm on Vaibhav Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/latent-dirichlet-allocation-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 5: Uncovering The Hottest Topics in Machine Learning</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-5-uncovering-the-hottest-topics-in-machine-learning/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-5-uncovering-the-hottest-topics-in-machine-learning/</guid>
+      <description>Explored the NIPS Papers data, to determine what type of data it is and how it is structured Prepared the data by removing all the columns that do not contain useful text information Visualized the number of publications per year, to understand the extent of the machine learning &amp;lsquo;revolution&amp;rsquo;! Modified the text data by applying regular expression to remove any punctuation in the title to make it more amenable for analysis Created a word cloud of the titles of the research papers using Andreas Mueller’s word cloud library.</description>
+    </item>
+    
+  </channel>
+</rss>
