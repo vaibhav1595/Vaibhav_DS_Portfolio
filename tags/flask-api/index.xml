@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask API on Vaibhav Panchal</title>
+    <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/flask-api/</link>
+    <description>Recent content in Flask API on Vaibhav Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/flask-api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Predict Data Science Salary</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-1-predict-data-science-salary/</link>
+      <pubDate>Sun, 19 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-1-predict-data-science-salary/</guid>
+      <description>Developed a tool estimating the salary for the position of data science job with (MAE) ~ $13k posted on glassdoor.com in the United States Scraped 1000 Jobs lists from Glassdoor using python and selenium Performed Exploratory Data Analysis to uncover the underlying important structure of the Glassdoor job dataset Engineered features from the text of each job description to quantify the value companies put on Python, SQL, R, Spark, AWS and Excel Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model Created a client facing API using flask  Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
