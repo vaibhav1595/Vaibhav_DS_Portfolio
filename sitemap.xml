@@ -3,42 +3,217 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/bioinformatics/</loc>
+    <lastmod>2020-06-02T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-14-bioinformatics-project-computational-drug-discovery/</loc>
+    <lastmod>2020-06-02T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/</loc>
-    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <lastmod>2020-06-02T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/flask-api/</loc>
-    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</loc>
+    <lastmod>2020-06-02T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/gridsearchcv/</loc>
-    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/</loc>
+    <lastmod>2020-06-02T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/predict/</loc>
-    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/finance/</loc>
+    <lastmod>2020-05-28T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-1-predict-data-science-salary/</loc>
-    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nlp/</loc>
+    <lastmod>2020-05-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/sentiment-analysis/</loc>
+    <lastmod>2020-05-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-12-extract-stock-sentiment-from-news-headlines/</loc>
+    <lastmod>2020-05-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/</loc>
+    <lastmod>2020-05-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</loc>
+    <lastmod>2020-05-26T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/computer-vision/</loc>
+    <lastmod>2020-05-26T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/deep-learning/</loc>
+    <lastmod>2020-05-26T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-11-distinguish-between-a-honey-bee-and-a-bumble-bee-using-deep-learning/</loc>
+    <lastmod>2020-05-26T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/binary-classifier/</loc>
+    <lastmod>2020-05-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-13-predicting-blood-donation/</loc>
+    <lastmod>2020-05-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/regression/</loc>
+    <lastmod>2020-05-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/investment/</loc>
+    <lastmod>2020-05-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-9-risk-and-rewards-the-sharpe-ratio/</loc>
+    <lastmod>2020-05-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/</loc>
+    <lastmod>2020-05-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-10-whos-tweeting-trump-or-trudeau/</loc>
+    <lastmod>2020-05-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-8-real-time-insights-from-social-media-data/</loc>
+    <lastmod>2020-05-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-5-uncovering-the-hottest-topics-in-machine-learning/</loc>
+    <lastmod>2020-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-7-book-recommendations-from-charles-darwin/</loc>
+    <lastmod>2020-05-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/corpus/</loc>
+    <lastmod>2020-05-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/dendrogram/</loc>
+    <lastmod>2020-05-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/recommendation-system/</loc>
+    <lastmod>2020-05-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-6-predicting-credit-card-approvals/</loc>
+    <lastmod>2020-05-17T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/prediction/</loc>
+    <lastmod>2020-05-17T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-1-predict-data-science-salary/</loc>
+    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/production/</loc>
     <lastmod>2020-04-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -52,189 +227,35 @@
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/</loc>
-    <lastmod>2020-04-19T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-2-sentiment-analysis-on-latest-avengers-movies-with-tweets/</loc>
+    <lastmod>2020-04-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-3-predict-admit-chance-to-graduate-programs/</loc>
+    <lastmod>2020-04-04T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/credit-card-application/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/feature-importance/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-4-forecast-medical-insurance-cost/</loc>
+    <lastmod>2020-04-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/insurance-cost/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2020-04-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/lda-model/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/linear-regression/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/medical/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nips/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nlp/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/polynomial-regression/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-10-whos-tweeting-trump-or-trudeau/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-11-distinguish-between-a-honey-bee-and-a-bumble-bee-using-deep-learning/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-12-extract-stock-sentiment-from-news-headlines/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-2-sentiment-analysis-on-latest-avengers-movies-with-tweets/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-3-predict-admit-chance-to-graduate-programs/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-4-forecast-medical-insurance-cost/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-5-uncovering-the-hottest-topics-in-machine-learning/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-6-predicting-credit-card-approvals/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-7-book-recommendations-from-charles-darwin/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-8-real-time-insights-from-social-media-data/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-9-risk-and-rewards-the-sharpe-ratio/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/sentiment-analysis/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/word-cloud/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/</loc>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/</loc>
     <lastmod>2020-04-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

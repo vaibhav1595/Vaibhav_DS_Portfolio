@@ -6,44 +6,170 @@
     <description>Recent content in Tags on Vaibhav Panchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Flask API</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/flask-api/</link>
-      <pubDate>Sun, 19 Apr 2020 10:58:08 -0400</pubDate>
+      <title>Bioinformatics</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/bioinformatics/</link>
+      <pubDate>Tue, 02 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/flask-api/</guid>
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GridsearchCV</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/gridsearchcv/</link>
-      <pubDate>Sun, 19 Apr 2020 10:58:08 -0400</pubDate>
+      <title>Machine Learning</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</link>
+      <pubDate>Tue, 02 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/gridsearchcv/</guid>
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predict</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/predict/</link>
-      <pubDate>Sun, 19 Apr 2020 10:58:08 -0400</pubDate>
+      <title>Finance</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/finance/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/predict/</guid>
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nlp/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/sentiment-analysis/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</link>
+      <pubDate>Tue, 26 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/computer-vision/</link>
+      <pubDate>Tue, 26 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/deep-learning/</link>
+      <pubDate>Tue, 26 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Classifier</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/binary-classifier/</link>
+      <pubDate>Mon, 25 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/binary-classifier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
       <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/regression/</link>
-      <pubDate>Sun, 19 Apr 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 25 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investment</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/investment/</link>
+      <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/</link>
+      <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corpus</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/corpus/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/corpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dendrogram</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/dendrogram/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/dendrogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation System</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/recommendation-system/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/recommendation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/prediction/</link>
+      <pubDate>Sun, 17 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/production/</link>
+      <pubDate>Sun, 19 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/production/</guid>
       <description></description>
     </item>
     
@@ -57,128 +183,11 @@
     </item>
     
     <item>
-      <title>classification</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Credit Card Application</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/credit-card-application/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/credit-card-application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feature Importance</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/feature-importance/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/feature-importance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Insurance cost</title>
       <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/insurance-cost/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2020 10:58:08 -0400</pubDate>
       
       <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/insurance-cost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LDA Model</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/lda-model/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/lda-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Regression</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/linear-regression/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/linear-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medical</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/medical/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/medical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NIPS</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nips/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nlp/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polynomial Regression</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/polynomial-regression/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/polynomial-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment Analysis</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/sentiment-analysis/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/sentiment-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>twitter</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Word Cloud</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/word-cloud/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/word-cloud/</guid>
       <description></description>
     </item>
     

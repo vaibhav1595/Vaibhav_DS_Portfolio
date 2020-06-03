@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Mining on Vaibhav Panchal</title>
+    <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/</link>
+    <description>Recent content in Text Mining on Vaibhav Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment Analysis of Stocks from Financial News in Finviz website</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-12-extract-stock-sentiment-from-news-headlines/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-12-extract-stock-sentiment-from-news-headlines/</guid>
+      <description>Feel free to visit FinViz website for fundamental ratios, technical indicators to news headlines and insider training data, it is a perfect stock screener. Furthermore, it has updated information on the performance of each sector, industry and any major stock index.
+ Loaded the saved HTML files by identifying the folder path and directing BeautifulSoup to ‘read’ the table of headlines Parsed the scraped text into data and time, and Organized the data for Visualization and Analysis Implemented NLTK VADER for Sentiment Analysis, and Customized the Sentiment Scoring System Merged Sentiment scores and Headlines Data, and removed the duplicates to visualize the results Performed and Visualized the Sentiment on one single trading day for Facebook Stock  Tesla:     Facebook:   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Uncovering The Hottest Topics in Machine Learning</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-5-uncovering-the-hottest-topics-in-machine-learning/</link>
+      <pubDate>Tue, 19 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-5-uncovering-the-hottest-topics-in-machine-learning/</guid>
+      <description>Explored the NIPS Papers data, to determine what type of data it is and how it is structured Prepared the data by removing all the columns that do not contain useful text information Visualized the number of publications per year, to understand the extent of the machine learning &amp;lsquo;revolution&amp;rsquo;! Modified the text data by applying regular expression to remove any punctuation in the title to make it more amenable for analysis Created a word cloud of the titles of the research papers using Andreas Mueller’s word cloud library.</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendations from Charles Darwin</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-7-book-recommendations-from-charles-darwin/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-7-book-recommendations-from-charles-darwin/</guid>
+      <description>Explored the books to be used in recommendation system, and loaded the contents of each book Pre-processed the data to facilitate the downstream analysis Referred Darwin&amp;rsquo;s most famous book: &amp;ldquo;On the Origin of Species.&amp;rdquo; for consistency of the analysis Transformed the Corpus (collection of words) into a format that is easier to deal with for the downstream analyses, i.e., transform each text into a list of the individual words (called tokens) Implemented Stemming Process to group together the inflected forms of a word so they can be analyzed as a single item: the stem Loaded the final result from a pickle file to make the process faster, as stemming algorithm takes several minutes to run Created universe of all words, i.</description>
+    </item>
+    
+  </channel>
+</rss>

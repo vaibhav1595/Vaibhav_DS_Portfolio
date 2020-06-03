@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendation System on Vaibhav Panchal</title>
+    <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/recommendation-system/</link>
+    <description>Recent content in Recommendation System on Vaibhav Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/recommendation-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book Recommendations from Charles Darwin</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-7-book-recommendations-from-charles-darwin/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-7-book-recommendations-from-charles-darwin/</guid>
+      <description>Explored the books to be used in recommendation system, and loaded the contents of each book Pre-processed the data to facilitate the downstream analysis Referred Darwin&amp;rsquo;s most famous book: &amp;ldquo;On the Origin of Species.&amp;rdquo; for consistency of the analysis Transformed the Corpus (collection of words) into a format that is easier to deal with for the downstream analyses, i.e., transform each text into a list of the individual words (called tokens) Implemented Stemming Process to group together the inflected forms of a word so they can be analyzed as a single item: the stem Loaded the final result from a pickle file to make the process faster, as stemming algorithm takes several minutes to run Created universe of all words, i.</description>
+    </item>
+    
+  </channel>
+</rss>

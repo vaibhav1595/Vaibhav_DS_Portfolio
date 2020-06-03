@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binary Classifier on Vaibhav Panchal</title>
+    <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/binary-classifier/</link>
+    <description>Recent content in Binary Classifier on Vaibhav Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/binary-classifier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Blood Donation</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-13-predicting-blood-donation/</link>
+      <pubDate>Mon, 25 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-13-predicting-blood-donation/</guid>
+      <description>Checked Target Incidence using a Binary classifier Model which provides the output in &amp;lsquo;0 - the donor will not give blood&amp;rsquo; and &amp;lsquo;1 - the donor will give blood&amp;rsquo;. Result is [&amp;lsquo;0&amp;rsquo; - 0.762] &amp;amp; [&amp;lsquo;1&amp;rsquo; - 0.238] Zeroed into LogisticRegression model using TPOT, a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming, giving us the AUC score of 0.7850 Improved the AUC score by 0.</description>
+    </item>
+    
+  </channel>
+</rss>

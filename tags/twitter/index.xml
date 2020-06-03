@@ -6,17 +6,35 @@
     <description>Recent content in twitter on Vaibhav Panchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 2: Sentiment Analysis on Latest Avengers Movies with Tweets</title>
-      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-2-sentiment-analysis-on-latest-avengers-movies-with-tweets/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <title>Who&#39;s Tweeting - Trump or Trudeau ?</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-10-whos-tweeting-trump-or-trudeau/</link>
+      <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/posts/project-2-sentiment-analysis-on-latest-avengers-movies-with-tweets/</guid>
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-10-whos-tweeting-trump-or-trudeau/</guid>
+      <description>Loaded corpus of tweets from November 2017 into Pandas DataFrame, and passed it to scikit-learn for further processing Created vectorized representations of the tweets using &amp;lsquo;CountVectorizer&amp;rsquo; and &amp;lsquo;TfidfVectorizer&amp;rsquo; classes in order to apply machine learning after splitting the data into test and training sets Trained Multinomial Naive Bayes model with both the CountVectorizer and TfidfVectorizer data to check which model will perform better. Results are TF-IDF model performs better with 0.</description>
+    </item>
+    
+    <item>
+      <title>Real-time Insights from Social Media Data</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-8-real-time-insights-from-social-media-data/</link>
+      <pubDate>Fri, 22 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-8-real-time-insights-from-social-media-data/</guid>
+      <description>Loaded and inspected data for topics that were hot worldwide (WW) and in the United States (US) at the moment of query Used json.dumps() method to have the data formatted as a pretty JSON string Used python&amp;rsquo;s set datastructure to find the common trends between &amp;ldquo;World Trends&amp;rdquo; and &amp;ldquo;US Trends&amp;rdquo; Digged deeper to explore the common hot trend &amp;ldquo;#WeLoveTheEarth&amp;rdquo; Performed frequency analysis to get the sense of the data and Extracted useful information from retweets Manipulated and Visualized the data in a better and richer way Analysed languages used in tweets  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis on Latest Avengers Movies with Tweets</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-2-sentiment-analysis-on-latest-avengers-movies-with-tweets/</link>
+      <pubDate>Fri, 10 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-2-sentiment-analysis-on-latest-avengers-movies-with-tweets/</guid>
       <description>Scraped twitter tweets using Twitter Scraper Successfully applied VADER sentimental analysis tool to get peoples sentiments Applied Langdetect to extract English (‘en’) language tweets Compared Avengers: Endgame 2019 movie sentiments to previous year Avengers: Infinity war movie  Link to GitHub Repository</description>
     </item>
     
