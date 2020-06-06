@@ -262,6 +262,20 @@
   </url>
   
   <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
