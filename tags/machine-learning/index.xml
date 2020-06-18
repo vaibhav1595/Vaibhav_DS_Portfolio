@@ -19,7 +19,7 @@
       <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-14-smartphone-based-recognition-of-human-activities-and-postural-transitions/</guid>
       <description>Abstract: Activity recognition data set built from the recordings of 30 subjects performing basic activities and postural transitions while carrying a waist-mounted smartphone with embedded inertial sensors.
 Link to Dataset
- Ongoing Project&amp;hellip; Link to GitHub Repository</description>
+  Loaded and Processed TXT-format Train and Test data into DataFrame Applied 6 Classification Algorithms (Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Naive Bayes, Decision Tree, Random Forest) and 10-fold cross validation procedure is used to evaluate each algorithm F1-Score: Logistic Regression - 93.</description>
     </item>
     
     <item>
