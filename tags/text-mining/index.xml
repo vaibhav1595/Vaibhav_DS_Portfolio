@@ -6,11 +6,7 @@
     <description>Recent content in Text Mining on Vaibhav Panchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2020 10:58:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 28 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sentiment Analysis of Stocks from Financial News in Finviz website</title>
       <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-12-extract-stock-sentiment-from-news-headlines/</link>

@@ -3,36 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/comparison/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</loc>
+    <lastmod>2020-10-07T08:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-07T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-15-mnist-digit-recognizer/</loc>
+    <lastmod>2020-10-07T08:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-14-smartphone-based-recognition-of-human-activities-and-postural-transitions/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-07T08:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-07T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/comparison/</loc>
+    <lastmod>2020-06-13T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-14-smartphone-based-recognition-of-human-activities-and-postural-transitions/</loc>
+    <lastmod>2020-06-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,13 +82,6 @@
   <url>
     <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/text-mining/</loc>
     <lastmod>2020-05-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhav1595.github.io/Vaibhav_Portfolio/tags/classification/</loc>
-    <lastmod>2020-05-26T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
