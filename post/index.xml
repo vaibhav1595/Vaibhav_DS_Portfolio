@@ -6,15 +6,20 @@
     <description>Recent content in Projects on Vaibhav Panchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2020 12:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 02 Apr 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digit Recognizer</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-15-mnist-digit-recognizer/</link>
+      <pubDate>Wed, 07 Oct 2020 08:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-15-mnist-digit-recognizer/</guid>
+      <description>Developed a Convolutional Neural Network to Classify Handwritten Digits with an accuracy of 99.12% Engineered the training, validation (15% of training set) and test datasets into 28 x 28 x 1 pixels Performed pixel normalization to make the model learn better (from [0,255] to [0,1]) Generated Sequential Model with 3 Convolutional Blocks, each block consists of 2 Conv2D layers with LeakyRelU activation layers, then the MaxPool2D layer (to reduce the size of the image), and finally the Dropout layer (to drop the few activation nodes while training).</description>
+    </item>
     
     <item>
       <title>Smartphone Based Recognition of Human Activities and Postural Transitions</title>
       <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-14-smartphone-based-recognition-of-human-activities-and-postural-transitions/</link>
-      <pubDate>Sun, 07 Jun 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sat, 13 Jun 2020 10:58:08 -0400</pubDate>
       
       <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-14-smartphone-based-recognition-of-human-activities-and-postural-transitions/</guid>
       <description>Abstract: Activity recognition data set built from the recordings of 30 subjects performing basic activities and postural transitions while carrying a waist-mounted smartphone with embedded inertial sensors.
