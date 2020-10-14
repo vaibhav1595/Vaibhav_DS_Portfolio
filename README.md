@@ -2,4 +2,4 @@
 
 Welcome to Vaibhav Panchal's Data Science Portfolio
 
-![](ds.gif)
+![](https://github.com/vaibhav1595/Vaibhav_Portfolio/blob/master/ds.gif)
