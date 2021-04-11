@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://vaibhav1595.github.io/Vaibhav_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HR Analytics: Job Change of Data Scientists</title>
+      <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-17-hr-analytics-predict-who-will-change-jobs/</link>
+      <pubDate>Sun, 11 Apr 2021 07:58:08 -0400</pubDate>
+      
+      <guid>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-17-hr-analytics-predict-who-will-change-jobs/</guid>
+      <description>The deployed web-app is live now - HR Analytics Web-App
+ Developed a Web-app, which predicts whether an applicant is looking for a new data science job or not with an Accuracy of 84.0%. Preprocessed the data to a specific data form which is suitable for machine learning models to learn. Performed Exploratory Data Analysis to visualize, summarize and interpret the hidden information in the dataset. Applied Dummy Encoding to all Categorical Features.</description>
+    </item>
+    
+    <item>
       <title>Flight Price Prediction App</title>
       <link>https://vaibhav1595.github.io/Vaibhav_Portfolio/post/project-16-flight_price_prediction_web_app-using-streamlit/</link>
       <pubDate>Fri, 23 Oct 2020 08:58:08 -0400</pubDate>
